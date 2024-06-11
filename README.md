@@ -1,6 +1,14 @@
-# crud_flutter
+# Crud_flutter with Sqlite
 
-A new Flutter project.
+This repo contains a simple implementation of CRUD (Create, Read, Update, Delete) operations in a Flutter application using SQLite database, with the addition of a feature to add photos to student records.
+
+Features:
+
+1. Add new student data (name, NIM, and photo)
+2. Display a list of all students with their photos
+3. Update existing student data (name, NIM, and photo)
+4. Delete student data
+5. Image picker integration for selecting photos
 
 ## Getting Started
 
